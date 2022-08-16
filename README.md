@@ -7,4 +7,4 @@
 4. Remove the food by ID. 
 5. Print the food list in the descending order of expried date. 
 
-## © 2022 DuyDuongKhai
+# © 2022 DuyDuongKhai
