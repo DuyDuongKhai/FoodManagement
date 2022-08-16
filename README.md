@@ -1,5 +1,6 @@
 # FoodManagement
 # Đây là project được viết bằng ngôn ngữ "java" và nó được dùng để quản lí thức ăn 
+# Poject bao gồm 2 role : user và admin
 # Các chức năng chính trong project: 
 1. Add a new food.
 2. Search a food by name. 
